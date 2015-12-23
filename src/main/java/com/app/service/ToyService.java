@@ -57,7 +57,7 @@ public class ToyService {
 
         Toy toy6 = new Toy();
         toy6.setId(6);
-        toy6.setName("Mr. Potato Head");
+        toy6.setName("Mr. Potato Headsss");
         toy6.setGender("Male");
         toy6.setTitle("Potato");
 
