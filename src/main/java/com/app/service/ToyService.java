@@ -7,6 +7,8 @@ import org.springframework.stereotype.Service;
 
 import com.app.vo.Toy;
 
+
+
 /**
  * Created by kannampallil_b on 4/24/15.
  */
@@ -24,8 +26,8 @@ public class ToyService {
         Toy toy1 = new Toy();
         toy1.setId(1);
         toy1.setId(1);
-        toy1.setName("Woody");
-        toy1.setGender("Male");
+        toy1.setName("wood");
+        toy1.setGender("MALE");
         toy1.setTitle("Sheriff");
 
         Toy toy2 = new Toy();
@@ -51,7 +53,7 @@ public class ToyService {
         toy5.setId(5);
         toy5.setName("Slinky Dog");
         toy5.setGender("Male");
-        toy5.setTitle("Dachshund");
+        toy5.setTitle("Dachshund2");
 
         Toy toy6 = new Toy();
         toy6.setId(6);
